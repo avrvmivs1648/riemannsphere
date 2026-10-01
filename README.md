@@ -2,6 +2,6 @@
 リーマン多様体上での平行移動を可視化するための実験プログラム。具体例として球面上の平行移動を扱っている。詳細はPDF(riemannsphere_overview.pdf)に記載。
 
 # 開発環境
-統合開発環境: Visual Studio 2022  
+統合開発環境: Visual Studio 2022 Community Edition  
 言語: C++  
 使用ライブラリ: freeglut
