@@ -4,4 +4,4 @@
 # 開発環境
 統合開発環境: Visual Studio 2022 Community Edition  
 言語: C++  
-使用ライブラリ: freeglut
+使用ライブラリ: OpenGL (NupenGL)
