@@ -254,7 +254,7 @@ int main(int argc, char* argv[])
     glutInitWindowSize(WIDTH, HEIGHT);
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE);
-    glutCreateWindow("ãÖñ è„ÇÃïΩçsà⁄ìÆ");
+    glutCreateWindow("Parallel translation on sphere");
     glutDisplayFunc(display);
     glutIdleFunc(idle);
     Init();
